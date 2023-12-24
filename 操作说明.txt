@@ -1,0 +1,5 @@
+1、移动：WASD/方向键，Q向前，E向后
+2、闪避：空格键（向移动方向闪现一段距离)
+3、射击：鼠标左键
+
+TIPS：本项目需要安装Unity自带的InputSystem包，具体安装方法如下：Package Manager——左上角选择Unity Registry——搜索Input System——install
